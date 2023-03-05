@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhyanpatel110&label=Profile%20views&color=0e75b6&style=flat" alt="dhyanpatel110" /> </p>
 <img align="right" alt="Coding" width="400" src="https://github.com/dhyanpatel110/flutter_image/blob/master/JavaScript%20frameworks.gif">
 
-- 🔭 I’m currently working on **Expense-Tracker**
+- 🔭 I’m currently working on **chat-app**
 
 - 🌱 I’m currently learning **Node js, Mongodb, Express**
 
