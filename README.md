@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhyan Patel</h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhyanpatel110&label=Profile%20views&color=0e75b6&style=flat" alt="dhyanpatel110" /> </p>
 <img align="right" alt="Coding" width="400" src="https://github.com/dhyanpatel110/flutter_image/blob/master/JavaScript%20frameworks.gif">
