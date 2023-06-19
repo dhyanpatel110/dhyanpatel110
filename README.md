@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Node js, Mongodb, Express**
 
-- 👨‍💻 All of my projects are available at [https://codearmy.netlify.app/](https://codearmy.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://spacecodex.vercel.app/](https://spacecodex.vercel.app/)
 
-- 💬 Ask me about **React, Machine Learning, Integration different Technology**
+- 💬 Ask me about **React.Js, Node.Js, Integration different Technology**
 
 - 📫 How to reach me **dhyanpatel110@gmail.com**
 
