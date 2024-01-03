@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **chat-app**
 
-- 🌱 I’m currently learning **Node js, Mongodb, Express**
+- 🌱 I’m currently learning **Virtual Reality, Web 3.0, Microservices**
 
 - 👨‍💻 All of my projects are available at [https://spacecodex.vercel.app/](https://spacecodex.vercel.app/)
 
