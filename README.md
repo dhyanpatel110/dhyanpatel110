@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://spacecodex.vercel.app/](https://spacecodex.vercel.app/)
 
-- 💬 Ask me about **React.Js, Node.Js, Integration different Technology**
+- 💬 Ask me about **React.Js, Node.Js, MongoDB**
 
 - 📫 How to reach me **dhyanpatel110@gmail.com**
 
